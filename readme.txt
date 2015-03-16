@@ -3,7 +3,7 @@ Contributors: L.Ch.Rajkumar
 Donate Link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5J732JK7Z9ZBU
 Tags: Payza gateway for eshop, alertpay gateway for eshop, payza checkout for eshop, payza checkout eshop
 Requires at least: 3.0 and above
-Tested up to: 3.9.1
+Tested up to: 4.1.1
 Stable Tag: 1.0
 Version: 1.0
 License: GPLv2 or Later
