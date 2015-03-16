@@ -47,6 +47,7 @@ The following are the fields that needs to be entered once this plugin is activa
 1. Plugin Activation Page.
 2. Payza Checkout Fields Entry form.
 3. Payza Checkout Fields Entry form(data filled).
+4. Payza Gateway Payment Page.
 
 == Changelog ==
 = 1.0 =
