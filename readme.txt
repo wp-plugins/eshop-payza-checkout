@@ -19,9 +19,9 @@ eShop Payza Checkout
 This plugin provides New Checkout fields to the end-user who needs to enter the fields properly which gives the correct payment processing by Payza Merchant Gateway(AlertPay gateway) and also correct orders in eShop store too.
 
 The following are the fields that needs to be entered once this plugin is activated and user navigates to checkout form of eShop store:-
-1. Product Quantity[This field is pre-filled with '1' as it will be default value for Payza Gateway.
-2. Product SKU[This field should be filled by end-user while doing checkout for any product. The SKU should match with eShop product SKU/product that you are going to purchase from eShop store].
-3. Product Description[This field should be filled up with product name/product description(only 255 chars) by end-user].
+* Product Quantity[This field is pre-filled with '1' as it will be default value for Payza Gateway.
+* Product SKU[This field should be filled by end-user while doing checkout for any product. The SKU should match with eShop product SKU/product that you are going to purchase from eShop store].
+* Product Description[This field should be filled up with product name/product description(only 255 chars) by end-user].
 
 == Installation ==
 1. Purchase the plugin from http://www.skrilleshopplugin.biz/shop/eshop-add-on-plugins-2/eshop-payza-checkout/ for just $25 only.
